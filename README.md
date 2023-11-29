@@ -1,1 +1,2 @@
-# face_recognition
+# Reconocimiento facial
+Grupo: Chillemi, Garraza, Rodriguez
